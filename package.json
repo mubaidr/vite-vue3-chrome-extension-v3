@@ -30,7 +30,7 @@
     "pinia": "^3.0.3",
     "prettier": "^3.6.2",
     "tailwindcss": "^4.1.11",
-    "terser": "^5.43.1",
+    "terser": "^5.44.0",
     "tsx": "^4.20.3",
     "tw-animate-css": "^1.3.6",
     "typescript": "^5.8.3",
