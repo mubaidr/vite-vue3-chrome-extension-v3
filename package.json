@@ -42,7 +42,7 @@
     "vite-plugin-vue-devtools": "^8.0.0",
     "vite-plugin-zip-pack": "^1.2.4",
     "vue": "^3.5.18",
-    "vue-i18n": "^11.1.11",
+    "vue-i18n": "^11.1.12",
     "vue-router": "^4.5.1",
     "vue-tsc": "^3.0.4",
     "web-ext": "^8.9.0",
