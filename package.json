@@ -14,7 +14,7 @@
     "@types/node": "^24.1.0",
     "@types/webextension-polyfill": "^0.12.3",
     "@vitejs/plugin-vue": "^6.0.1",
-    "@vue/compiler-sfc": "^3.5.18",
+    "@vue/compiler-sfc": "^3.5.22",
     "@vueuse/core": "^13.5.0",
     "chalk": "^5.4.1",
     "chrome-types": "^0.1.365",
