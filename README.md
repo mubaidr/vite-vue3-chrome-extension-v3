@@ -14,6 +14,7 @@ A modern, opinionated starter template for building browser extensions with [Vit
 - **i18n Ready**: Internationalization support with vue-i18n
 - **WebExtension Utilities**: `webext-bridge` for cross-context communication, `webextension-polyfill` for browser API compatibility
 - **Developer Experience**: Hot reload, ESLint, Prettier, TypeCheck
+- **AI-Ready**: Includes `AGENTS.md` with coding guidelines for AI assistants
 
 ## Quick Start
 
