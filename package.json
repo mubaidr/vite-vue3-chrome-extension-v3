@@ -77,7 +77,7 @@
   "dependencies": {
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "lucide-vue-next": "^0.564.0",
+    "lucide-vue-next": "^0.577.0",
     "tailwind-merge": "^3.4.1"
   }
 }
